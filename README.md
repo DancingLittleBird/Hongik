@@ -1,2 +1,2 @@
 # Hongik
-upload assignments and my personal projects
+assignments and my personal projects are uploaded
